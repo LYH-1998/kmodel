@@ -5,8 +5,8 @@
 #ifndef KMODEL_CHANGESTATUS_H
 #define KMODEL_CHANGESTATUS_H
 
+#include <vector>
 #include "EntityStatus.h"
-#include "vector"
 
 class ChangeStatus {
 private:

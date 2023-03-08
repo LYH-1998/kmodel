@@ -5,7 +5,7 @@
 #ifndef KMODEL_CONTROLMODEL_H
 #define KMODEL_CONTROLMODEL_H
 
-#include <ChangeStatus.h>
+#include "ChangeStatus.h"
 
 static const double R_MIN = 7;
 
